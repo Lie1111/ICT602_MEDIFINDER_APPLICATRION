@@ -1,5 +1,5 @@
 # ICT602_MEDIFINDER_APPLICATRION
-Group - CS2405A 
+Group Project- CS2405A 
 
 Student Name & ID Number
 
